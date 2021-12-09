@@ -3,7 +3,7 @@ body {
 }
 
 .container {
-    background-image: url(img/apples.jpg);
+    background-image: url(../img/apples.jpg);
     background-size: cover;
     width: 100%;
     height: 600px;
